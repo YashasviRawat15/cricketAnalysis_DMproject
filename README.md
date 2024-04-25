@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # cricketAnalysis_DMproject
-=======
+
 # Analysis of data from the Indian Premier League (20/20 Cricket tournament)
 ## The objective was to look at data from the Indian Premier League, analyze the data and come up with the following:
 1. Top Batsmen and their performance metrics
@@ -86,4 +85,4 @@ There were no categorical variables that were defined as part of the model. Any 
 ## Results
 A 75% test accuracy was obtained with very minor differences between the classifiers.
 Compared to the base predictor of 50%, a 75% accurate model is a big improvement.
->>>>>>> 0bf8944 (Initial commit)
+
