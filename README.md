@@ -6,9 +6,6 @@
 3. Build a model to predict the winner of a match
 (Here I have considered the data of IPL matches.)
 
-## Understanding IPL T20 and Cricket performances
-IPL is a treasure trove of cricket data and hence analyzing IPL results could well prove to be interesting. Its played in the exciting 20–20 format. The 12th edition of IPL completed on May 12 with the Mumbai Indians winning an easy win.
-
 ## Understanding Data 
 There are 3 files in the Github repo and a folder named IPL which contains data.
 1. `README.md` (this file)
