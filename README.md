@@ -1,18 +1,16 @@
 # cricketAnalysis_DMproject
 
-# Analysis of data from the Indian Premier League (20/20 Cricket tournament)
-## The objective was to look at data from the Indian Premier League, analyze the data and come up with the following:
+## The objective was to look at data from cricket matches, analyze the data and come up with the following:
 1. Top Batsmen and their performance metrics
 2. Top Bowlers and their performance metrics
-3. Build a model to predict the winner of an IPL match
+3. Build a model to predict the winner of a match
+(Here I have considered the data of IPL matches.)
 
 ## Understanding IPL T20 and Cricket performances
 IPL is a treasure trove of cricket data and hence analyzing IPL results could well prove to be interesting. Its played in the exciting 20–20 format. The 12th edition of IPL completed on May 12 with the Mumbai Indians winning an easy win.
 
-## Understanding Data
-IPL Data in Kaggle was available only till 2017. I then looked at Cricsheet and got a zip file for all 12 years. Data however was in the YAML format.
-Google Colab was used for GPU and Kaggle API was used to download data from within Colab. 
-There are 3 files in the Github repo
+## Understanding Data 
+There are 3 files in the Github repo and a folder named IPL which contains data.
 1. `README.md` (this file)
 2. `ipl_yaml_data_processing.ipynb` - a file that is used to convert the raw YAML data files into 2 `csv` files providing summary and detailed information
 3. `ipl_analysis.ipynb` - this file processes he 2 csv files provided into meaningful data, analysis, insights and a predictive model
